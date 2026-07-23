@@ -5,7 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+[![Vue Frimousse](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-frimousse&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-frimousse)
+[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
+[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
+[![vue-color-wheel](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-color-wheel&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-color-wheel)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
