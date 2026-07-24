@@ -1,47 +1,53 @@
-# Hi, I'm Mimi 👋
+# Hi, I'm Mimi <img width="35" height="35" alt="wave" src="https://github.com/user-attachments/assets/70aa70ed-b791-470a-9333-2be7ca3c800e" />
 
-I'm an international program student interested in **AI, software development, and building projects that solve real-world problems**.
+I am Mimi, a Computer Science student at [ SIIT, Thammasat University](https://www.siit.tu.ac.th/). I am interested in artificial intelligence, full-stack development, and building technology that solves real-world problems. I am always open to collaborating on projects and exploring new ideas. Feel free to connect with me here:
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussainweb/](https://www.linkedin.com/in/ployluang-krodtem-19113b38a/))
+[![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hussain.web/](https://www.instagram.com/mimiisung/))
+[![GitHub]([https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hussainweb](https://github.com/mimiplly))
+[![Facebook]([https://img.shields.io/badge/GitLab-%23330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hussainweb](https://www.facebook.com/memeeployluang.krodtem.1))
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-[![KonHaiy AI](https://svg.bookmark.style/api?url=https://github.com/mimiplly/KonHaiy-AI-Missing-Person-Search\&mode=dark\&style=horizontal)](https://github.com/mimiplly/KonHaiy-AI-Missing-Person-Search)
 
-### KonHaiy AI — Missing Person Search
-
-An AI-powered missing person detection and tracking system using facial recognition technology.
-
-The original idea was developed through a group project, where my teammates helped brainstorm and plan the concept. I took the main developer role and worked on both the **frontend and backend development**.
 
 ## About Me
 
-* 🌱 Currently learning more about AI, machine learning, and software development
-* 💻 Interested in full-stack development and computer vision
-* 👯 Open to collaborating on AI and technology projects
-* 💬 Ask me about Python, Java, React, Node.js, and facial recognition
-* 📫 GitHub: [@mimiplly](https://github.com/mimiplly)
+- 🎓 Studying in an international university program
+- 🤖 Interested in Artificial Intelligence and Computer Vision
+- 💻 Building full-stack applications with React, Node.js and Python
+- 🌱 Currently improving my AI/ML and software development skills
+
+## Featured Project
+
+<a href="https://github.com/mimiplly/KonHaiy-AI-Missing-Person-Search">
+  <img
+    src="https://svg.bookmark.style/api?url=https://github.com/mimiplly/KonHaiy-AI-Missing-Person-Search&mode=dark&style=horizontal"
+    alt="KonHaiy AI"
+    width="100%"
+  />
+</a>
+
+### KonHaiy AI — Missing Person Search
+
+An AI-powered missing person detection and tracking system using
+facial recognition technology.
+
+The project idea was developed with my teammates as part of a group
+project. I worked as the main developer, handling both frontend and
+backend development.
 
 ## Tech Stack
 
-**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nextjs,nodejs,mongodb,mysql,postgres,tensorflow,pytorch,opencv,git,github,vscode" />
+</p>
 
-`Python` `Java` `JavaScript`
+## GitHub Stats
 
-**Frontend**
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mimiplly&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimiplly&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-`React` `Next.js` `HTML` `CSS`
+## Contact
 
-**Backend & Databases**
-
-`Node.js` `MongoDB` `MySQL` `PostgreSQL`
-
-**AI & Machine Learning**
-
-`TensorFlow` `PyTorch` `OpenCV` `Face Recognition` `OpenAI API`
-
-**Tools**
-
-`Git` `GitHub` `VS Code`
-
----
-
-⭐ Check out my projects below!
+- GitHub: [@mimiplly](https://github.com/mimiplly)
