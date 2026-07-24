@@ -1,6 +1,7 @@
 # Hi, I'm Mimi <img width="35" height="35" alt="wave" src="https://github.com/user-attachments/assets/70aa70ed-b791-470a-9333-2be7ca3c800e" />
 
 I am Mimi, a Computer Science student at [ SIIT, Thammasat University](https://www.siit.tu.ac.th/). I am interested in artificial intelligence, full-stack development, and building technology that solves real-world problems. I am always open to collaborating on projects and exploring new ideas. Feel free to connect with me here:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ployluang-krodtem-19113b38a/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mimiisung/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mimiplly)
@@ -34,21 +35,17 @@ backend development.
 
 ## GitHub Stats
 
-<p>
-  <a href="https://github.com/mimiplly">
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=mimiplly&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
-      alt="Mimi's GitHub stats"
-    />
-  </a>
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=mimiplly&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Mimi's GitHub stats"
+  />
 
-  <a href="https://github.com/mimiplly">
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimiplly&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
-      alt="Mimi's most used languages"
-    />
-  </a>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimiplly&layout=compact&theme=github_dark&hide_border=true"
+    alt="Mimi's most used languages"
+  />
 </p>
 
