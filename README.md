@@ -29,8 +29,34 @@ backend development.
 
 ## Tech Stack
 
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nextjs,nodejs,mongodb,mysql,postgres,tensorflow,pytorch,opencv,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" alt="Languages" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" alt="Frontend" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" />
+</p>
+
+### AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI and Machine Learning" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
 </p>
 
 ## GitHub Activity
@@ -41,3 +67,4 @@ backend development.
     alt="Mimi's GitHub streak and total contributions"
   />
 </p>
+
