@@ -33,19 +33,11 @@ backend development.
   <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nextjs,nodejs,mongodb,mysql,postgres,tensorflow,pytorch,opencv,git,github,vscode" />
 </p>
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=mimiplly&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Mimi's GitHub stats"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimiplly&layout=compact&theme=github_dark&hide_border=true"
-    alt="Mimi's most used languages"
+    src="https://streak-stats.demolab.com?user=mimiplly&theme=github-dark-blue&hide_border=true"
+    alt="Mimi's GitHub streak and total contributions"
   />
 </p>
-
