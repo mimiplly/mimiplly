@@ -1,6 +1,6 @@
 # Hi, I'm Mimi <img width="35" height="35" alt="wave" src="https://github.com/user-attachments/assets/70aa70ed-b791-470a-9333-2be7ca3c800e" />
 
-I am Mimi, a Computer Science student at [ SIIT, Thammasat University](https://www.siit.tu.ac.th/). I am I’m passionate about turning ideas into real projects, especially in AI, full-stack development, and computer vision. I enjoy learning by building, solving problems, and creating technology that can make a real difference. I’m always excited to explore new ideas, improve my skills, and collaborate with people who love creating things too. Feel free to connect with me here:
+I am Mimi, a Computer Engineering student at [ SIIT, Thammasat University](https://www.siit.tu.ac.th/). I am I’m passionate about turning ideas into real projects, especially in AI, full-stack development, and computer vision. I enjoy learning by building, solving problems, and creating technology that can make a real difference. I’m always excited to explore new ideas, improve my skills, and collaborate with people who love creating things too. Feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ployluang-krodtem-19113b38a/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mimiisung/)
